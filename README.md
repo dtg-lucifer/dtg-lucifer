@@ -23,3 +23,13 @@
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </div>
+
+---
+
+# **Skills i have mastered**
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+</div>
+          

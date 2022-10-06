@@ -17,6 +17,9 @@
 <br>
 <div id="stats" align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer">
+  <br>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=light&background=ffffff">
 </div>
 <br>
 <br>

@@ -18,3 +18,8 @@
 <div id="stats" align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer">
 </div>
+<br>
+<br>
+<div align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</div>

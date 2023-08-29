@@ -23,9 +23,9 @@
 </div>
 <br>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-</div>
+</div> -->
 
 ## 🛠 **Tools:**
 <br>

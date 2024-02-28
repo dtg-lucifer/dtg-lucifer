@@ -33,7 +33,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-
+---
 
 ### 📊 Stats
 
@@ -41,12 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dtg-lucifer&theme=gruvbox&border_radius=4.5)
 
-
-[website]: https://devpiush.netlify.com
-[youtube]: https://youtube.com/piushbose
-
-
---------------
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

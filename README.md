@@ -31,7 +31,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <div align="center" style="display:flex; gap:1rem;">
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=gruvbox">
-   <img src="https://streak-stats.demolab.com?user=dtg-lucifer&theme=gruvbox&border_radius=4.5">
 </div>
 
 

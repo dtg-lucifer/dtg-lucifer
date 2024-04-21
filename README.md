@@ -18,7 +18,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,electron,flutter,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,electron,flutter,react,nextjs,express)](https://skillicons.dev)
 
 ---
 

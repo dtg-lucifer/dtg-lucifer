@@ -23,6 +23,11 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vsode,git,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,postgres,mongodb,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,electron,flutter,react,nextjs)](https://skillicons.dev)
+
 ---
 
 ### 📊 Stats

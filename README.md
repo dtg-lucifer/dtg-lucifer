@@ -9,16 +9,16 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash,tailwind,styledcomponents)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,electron,flutter,react,nextjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,react,nextjs,express,nestjs)](https://skillicons.dev)
 
 ---
 

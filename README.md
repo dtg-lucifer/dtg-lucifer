@@ -28,7 +28,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 
 <div align="center" style="display:flex; gap:1rem;">
-   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=gruvbox">
+   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark">
 </div>
 
 

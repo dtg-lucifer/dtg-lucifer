@@ -34,7 +34,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <br>
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide=python&hide_border=true&ard_width=500">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide=python&hide_border=true&ard_width=1000">
 </div>
 
 ---

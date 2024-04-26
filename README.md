@@ -28,7 +28,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 
 <div align="center" style="width:100%;display:flex;gap:1rem;align-items:center;justify-content:space-between;">
-   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=holi&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=holi&hide_border=true&include_all_commits=true">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
 </div>
 

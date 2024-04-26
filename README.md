@@ -56,14 +56,6 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 </div>
 <br>
 <br>
-<div id="stats" align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer"> -->
-  <br>
-  <br>
-  
-</div>
-<br>
-<br>
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </div>

@@ -13,7 +13,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman,graphql)](https://skillicons.dev)
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,tailwind,styledcomponents)](https://skillicons.dev)

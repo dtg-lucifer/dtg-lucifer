@@ -10,13 +10,13 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash)](https://skillicons.dev)
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,tailwind,styledcomponents)](https://skillicons.dev)
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,react,nextjs,express,nestjs)](https://skillicons.dev)

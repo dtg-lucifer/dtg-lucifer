@@ -6,6 +6,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
 
+![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
+
 ---
 
 ### 🧰 Languages and Tools

@@ -1,7 +1,5 @@
 # 🏄‍♂️ Piush Bose
-
 **Full stack software developer**
-
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
@@ -11,7 +9,6 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ---
 
 ### 🧰 Languages and Tools
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,bash)](https://skillicons.dev)
 <br>
 <br>
@@ -22,26 +19,18 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,react,nextjs,express,nestjs)](https://skillicons.dev)
-
 ---
-
 ### 📊 Stats
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
-<br>
-<br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
+<div align="center" style="width:100%;display:flex;">
+   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
+</div>
 <br>
 <br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide=python&hide_border=true">
 </div>
-
 ---
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>

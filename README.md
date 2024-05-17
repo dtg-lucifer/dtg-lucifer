@@ -19,7 +19,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,react,nextjs,express,nestjs)](https://skillicons.dev)
----
+------
 ### 📊 Stats
 <div align="center" style="width:100%;display:flex;">
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">

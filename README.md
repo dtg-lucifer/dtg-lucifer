@@ -6,17 +6,13 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 ![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 <br><br>
-<div style="width:100%;display:flex;align-items:center;justify-content:flex-between;">
-<span>
 <a href="https://www.linkedin.com/in/bosepiush">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/namespace_piush/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-</span>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 ---
 
 ### 🧰 Languages and Tools

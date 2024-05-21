@@ -7,6 +7,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 <br><br>
 <div style="display:flex;align-items:center;justify-content:flex-between;">
+<div>
 <a href="https://www.linkedin.com/in/bosepiush">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -15,6 +16,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 </a>
 </div>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ---
 
 ### 🧰 Languages and Tools

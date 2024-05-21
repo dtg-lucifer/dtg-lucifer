@@ -38,13 +38,10 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/piush-bose-a0b586235">
+  <a href="https://www.linkedin.com/in/bosepiush">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/DualTechGaming">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/p_i_u_s_h_._b_o_s_e/">
+  <a href="https://www.instagram.com/namespace_piush/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

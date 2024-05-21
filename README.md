@@ -5,6 +5,12 @@ I'm an indie full-stack developer and content creator building my version of the
 Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
 
 ![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
+<a href="https://www.linkedin.com/in/bosepiush">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/namespace_piush/">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 
 ---
 

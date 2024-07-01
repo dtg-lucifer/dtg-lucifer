@@ -28,7 +28,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,react,nextjs,express,nestjs)](https://skillicons.dev)
 ------
 <div align="center" style="width:100%;display:flex;">
-<a href="https://app.daily.dev/piushbose"><img src="https://api.daily.dev/devcards/v2/cuyOcguh8UXtMinEH99bh.png?type=wide&r=zha" width="652" alt="Piush Bose's Dev Card"/></a>
+<a href="https://app.daily.dev/piushbose"><img src="https://api.daily.dev/devcards/v2/cuyOcguh8UXtMinEH99bh.png?type=default&r=zha" width="652" alt="Piush Bose's Dev Card"/></a>
 </div>
 ------
 ### 📊 Stats

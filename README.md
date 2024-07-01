@@ -16,7 +16,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,dart,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,dart,bash,obsidian)](https://skillicons.dev)
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman,graphql,docker,git,github)](https://skillicons.dev)

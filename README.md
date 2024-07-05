@@ -1,5 +1,9 @@
 # 🏄‍♂️ Piush Bose
 **Full stack software developer**<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
@@ -38,10 +42,6 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 ------
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<br>
 <br>
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">

@@ -20,13 +20,13 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,kotlin,dart,bash,obsidian,kafka,rabbitmq,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,python,dart,bash,obsidian,kafka,rabbitmq,redis)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,ubuntu,postman,graphql,docker,git,github,githubactions,ansible,kubernetes)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase,redis,tailwind,styledcomponents,vercel,gitlab,elasticsearch,jenkins)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,electron,spring,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,electron,flask,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ---
 ### 📊 Stats

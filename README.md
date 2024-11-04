@@ -26,7 +26,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase,redis,tailwind,styledcomponents,vercel,gitlab,elasticsearch,jenkins)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,electron,flask,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,electron,hono,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ---
 ### 📊 Stats

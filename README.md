@@ -20,9 +20,9 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,go,rust,bash,obsidian,kafka,rabbitmq,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,go,rust,bash,solidity,kafka,rabbitmq,redis)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=astro,idea,vscode,git,ubuntu,postman,deno,docker,git,github,githubactions,ansible,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,idea,vscode,git,ubuntu,postman,deno,docker,wasm,github,githubactions,ansible,kubernetes)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase,redis,tailwind,styledcomponents,vercel,gitlab,elasticsearch,jenkins)](https://skillicons.dev)
 <br>

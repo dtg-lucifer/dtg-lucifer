@@ -1,7 +1,7 @@
 # 🏄‍♂️ Piush Bose
 **Full stack software developer | DevOps practitioner**<br>
 <div id="header" align="center" style="display: flex; flex-direction: column;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <img src="https://media.discordapp.net/attachments/1054289569828319322/1320792087033282601/Piush_bose.png?ex=676ae2fc&is=6769917c&hm=78662232086bf125917037c0997eac8cd71a380787721e1f6ae522504dc4aca8&=&format=webp&quality=lossless&width=960&height=240" width="100"/>
 </div>
 <br>

@@ -2,7 +2,7 @@
 **Full stack software developer | DevOps practitioner**<br>
 <div id="header" align="center" style="display: flex; flex-direction: column;">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.discordapp.net/attachments/1054289569828319322/1320792087033282601/Piush_bose.png?ex=676ae2fc&is=6769917c&hm=78662232086bf125917037c0997eac8cd71a380787721e1f6ae522504dc4aca8&=&format=webp&quality=lossless&width=960&height=240"/>
+  <img src="https://media.discordapp.net/attachments/1054289569828319322/1321851266007040123/Piush_bose.png?ex=676ebd6c&is=676d6bec&hm=7a49a466ff750d7aac17ae546afc80711293faa21eb053be81b0e818f9f3a024&=&format=webp&quality=lossless&width=550&height=138"/>
   
 </div>
 <br>

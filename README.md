@@ -2,7 +2,7 @@
 **Full stack software developer | DevOps practitioner | Cloud Engineer | BLockchain Developer ToBe**<br>
 <div id="header" align="center" style="display: flex; flex-direction: column;">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.discordapp.net/attachments/1054289569828319322/1321851266007040123/Piush_bose.png?ex=676ebd6c&is=676d6bec&hm=7a49a466ff750d7aac17ae546afc80711293faa21eb053be81b0e818f9f3a024&=&format=webp&quality=lossless&width=960&height=240"/>
+  <img src="https://media.discordapp.net/attachments/1054289569828319322/1322203552340381827/banner.png?ex=67700584&is=676eb404&hm=86dd18505edbd6c8d61dcb84bfa8a808f2de5fa07281c764245c367485052d70&=&format=webp&quality=lossless&width=960&height=240"/>
   
 </div>
 <br>

@@ -1,7 +1,7 @@
 # 🏄‍♂️ Piush Bose
 **Full stack software developer | DevOps practitioner | Cloud Engineer | BLockchain Developer ToBe**<br>
 <div id="header" align="center" style="display: flex; flex-direction: column;">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <img src="banner.png" />
 </div>
 <br>

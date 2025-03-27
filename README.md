@@ -37,6 +37,9 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 </div>
 <br>
 <br>
+[![Piush's Github Trophies](https://github-profile-trophy.vercel.app/?username=dtg-lucifer&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/rahulkarda/readme-components)
+<br>
+<br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true">
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent"> -->

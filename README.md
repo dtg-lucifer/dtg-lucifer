@@ -7,7 +7,7 @@
 <br>
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
+Check out [My Resume]()
 
 ![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 <br><br>
@@ -33,6 +33,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 ### 📊 Stats
 <div align="center" style="width:100%;display:flex;">
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
+ 
    [![Stats](http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true)]
 </div>
 

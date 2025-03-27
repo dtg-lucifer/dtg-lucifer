@@ -32,7 +32,7 @@ Check out [My Resume]()
 ---
 ### 📊 Stats
 <div align="center" style="width:100%;display:flex;">
-   <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
+   [![](https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true)]
  
    [![Stats](http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true)]
 </div>

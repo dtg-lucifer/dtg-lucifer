@@ -43,7 +43,7 @@ Check out [My Resume]()
 
 <div align="center">
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true"> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=transparent">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox">
 </div>
 
 ---

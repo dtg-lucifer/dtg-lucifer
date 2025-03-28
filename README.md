@@ -36,6 +36,7 @@ Check out [My Resume]()
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
  
    <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dtg-lucifer&theme=dark" alt="GitHub Streak" /></a>
    
 </div>
 

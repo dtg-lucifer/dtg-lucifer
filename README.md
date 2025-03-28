@@ -35,10 +35,8 @@ Check out [My Resume]()
  
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=dtg-lucifer?theme=dark)](https://git.io/streak-stats)
 </div>
-
- ![](https://github-profile-trophy.vercel.app/?username=dtg-lucifer&theme=onedark&column=3&margin-w=15&margin-h=15)
  
 <br>
 <br>

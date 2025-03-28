@@ -35,8 +35,8 @@ Check out [My Resume]()
  
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
  
-  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true"> -->
-  ![Stats](https://streak-stats.demolab.com/?user=dtg-lucifer&theme=dark)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
+  ![](https://streak-stats.demolab.com/?user=dtg-lucifer&theme=dark)
 </div>
 
  <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=dtg-lucifer&theme=onedark&column=3&margin-w=15&margin-h=15)] -->

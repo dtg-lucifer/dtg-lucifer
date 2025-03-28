@@ -36,8 +36,6 @@ Check out [My Resume]()
    <img src="https://github-readme-stats.vercel.app/api?username=dtg-lucifer&show_icons=true&theme=dark&hide_border=true">
  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=dtg-lucifer&theme=dark&show_icons=true&hide_border=true">
-  
-  ![](https://streak-stats.demolab.com/?user=dtg-lucifer&theme=dark)
 </div>
 
  <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=dtg-lucifer&theme=onedark&column=3&margin-w=15&margin-h=15)] -->
@@ -47,7 +45,7 @@ Check out [My Resume]()
 
 <div align="center">
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true"> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=transparent">
 </div>
 
 ---

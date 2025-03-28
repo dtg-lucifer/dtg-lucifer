@@ -33,9 +33,9 @@ Check out [My Resume]()
 ### 📊 Stats
 <div align="center" style="width:100%;display:flex;">
  
-![dtg-lucifer's Stats](https://github-readme-stats.vercel.app/api?username=dtg-lucifer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=dtg-lucifer&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
-![dtg-lucifer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dtg-lucifer&theme=gruvbox&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dtg-lucifer&theme=gruvbox&hide_border=true)
 </div>
  
 <br>

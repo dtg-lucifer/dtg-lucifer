@@ -25,7 +25,7 @@ Check out [My Resume]()
 <br>
 [![My Skills](https://skillicons.dev/icons?i=astro,idea,vscode,git,ubuntu,postman,deno,docker,wasm,github,githubactions,ansible,kubernetes)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase,redis,tailwind,styledcomponents,vercel,gitlab,elasticsearch,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase,redis,tailwind,styledcomponents,bun,gitlab,elasticsearch,jenkins)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,vim,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
 

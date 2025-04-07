@@ -12,7 +12,7 @@ Check out [My Resume]()
 ![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 <br><br>
 <a href="https://www.linkedin.com/in/bosepiush">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linked-in&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/namespace_piush/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>

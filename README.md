@@ -1,11 +1,11 @@
 # 🏄‍♂️ Piush Bose
-**Full stack software developer | DevOps practitioner | Cloud Engineer | BLockchain Developer ToBe**<br>
+**Full stack developer | DevOps Engineee | Cloud Engineer**<br>
 <div id="header" align="center" style="display: flex; flex-direction: column;">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <img src="banner.png" />
 </div>
 <br>
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am an "Indie DevOps engineer, aiming to get better and better at his current skillsets, and expand their interests into more cloudy ☁️ things (I mean more to the cloud and operations)"
 
 Check out [My Resume]()
 

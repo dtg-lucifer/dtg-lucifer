@@ -21,7 +21,7 @@
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,go,rust,solana,solidity,kafka,rabbitmq,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,java,go,rust,c++,solidity,kafka,rabbitmq,redis)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=svelte,idea,vscode,git,ubuntu,postman,deno,docker,wasm,github,githubactions,ansible,kubernetes)](https://skillicons.dev)
 <br>

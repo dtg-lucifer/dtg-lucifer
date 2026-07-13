@@ -11,7 +11,6 @@
 
 💻 Check out [my profile](https://piush.in)
 
-![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 <br><br>
 <a href="https://www.linkedin.com/in/bosepiush">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linked-in&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,12 +42,7 @@
 <br>
 <br>
 
-<!-- <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox">
-</div> -->
-
----
+![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 
 <br>
 <div align="center">

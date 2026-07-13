@@ -43,7 +43,7 @@
  
 
 <br>
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column;">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
   <img src="https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square">
 </div>

@@ -11,7 +11,8 @@
 
 💻 Check out [my profile](https://piush.in)
 
-<br><br>
+<br>
+
 <a href="https://www.linkedin.com/in/bosepiush">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linked-in&logoColor=white" alt="LinkedIn Badge"/>
 </a>

@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <br>
+
 ---
 
 ### 🧰 Languages and Tools
@@ -31,6 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,electron,vim,flutter,vite,react,redux,nextjs,express,nestjs,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ---
+
 ### 📊 Stats
 <div align="center" style="width:100%;display:flex;">
  
@@ -39,12 +41,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dtg-lucifer&theme=gruvbox&hide_border=true)
 </div>
  
-<br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square)
 
 <br>
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  <img src="https://komarev.com/ghpvc/?username=dtg-lucifer&style=flat-square">
 </div>
